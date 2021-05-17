@@ -13,7 +13,7 @@ C:\>ShadowWiccan.exe -w "http://MyCoolSite/ssh.zip"
 * * * An OpenSSH install wrapper for Windows * * *
 
 [+] Downloading OpenSSH via HTTP
-    http://127.0.0.1/ssh.zip
+    http://MyCoolSite/ssh.zip
 
 [+] OpenSSH payload written to:
     C:\ProgramData\ssh\ssh.zip
